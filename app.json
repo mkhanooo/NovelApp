@@ -4,7 +4,7 @@
     "slug": "novel-app",
     "version": "1.0.0",
     "orientation": "default",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/open-book.png",
     "splash": {
       "image": "./assets/splash1.png",
       "resizeMode": "contain",
@@ -18,14 +18,14 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.waseemtalib.novelapp"
+      "bundleIdentifier": "com.mdkhan.novelapp"
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/open-book.png",
         "backgroundColor": "#1b1c1f"
       },
-      "package": "com.waseemtalib.novelapp"
+      "package": "com.mdkhan.novelapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
